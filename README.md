@@ -1,5 +1,8 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
+
+[![Build Status](https://dev.azure.com/LukeVenediger0485/LukeVenediger/_apis/build/status/lukevenediger.calculator)](https://dev.azure.com/LukeVenediger0485/LukeVenediger/_build/latest?definitionId=1)
+
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
